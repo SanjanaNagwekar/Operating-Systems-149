@@ -233,16 +233,10 @@
   233  git clone <https://bitbucket.org/cs149-sanjananagwekar/cs149/src/master/>
   234  git clone<https://bitbucket.org/cs149-sanjananagwekar/cs149/src/master>
   235  git push
-  236  git clone <git@bitbucket.org:SanjanaNagwekar/cs149>
-  237  git clone <git@bitbucket.org:SanjanaNagwekar/cs149>
-  238  git clone <git@bitbucket.org:SanjanaNagwekar/cs149>
-  239  git clone <git@bitbucket.org:SanjanaNagwekar/cs149.git>
-  240  git remote add origin git clone https://SanjanaNagwekar@bitbucket.org/cs149-sanjananagwekar/cs149.git
-  241  git config --global user.email "sanjana.nagwekar@sjsu.edu"
-  242  git config --global user.name "SanjanaNagwekar"
-  243  mkdir WS1
-  244  cd WS1
-  245  git add .
-  246  wget -O out.pdf https://tinyurl.com/yy94jltt
-  247  git add cmds.log *.c
-  248  history > cmds.log
+  236  git remote add origin https://SanjanaNagwekar04@bitbucket.org/cs149-sanjanan/cs149.git
+  237  git config --global user.email "sanjana.n438@gmail.com"
+  238  git config --global user.name "SanjanaN"
+  239  mkdir WS1
+  240  cd WS1
+  241  git add .
+  242  history > cmds.log
