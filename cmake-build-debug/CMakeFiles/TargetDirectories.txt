@@ -1,0 +1,3 @@
+/Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet/cmake-build-debug/CMakeFiles/class1hands_onWorksheet.dir
+/Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet/cmake-build-debug/CMakeFiles/rebuild_cache.dir

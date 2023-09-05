@@ -1,0 +1,4 @@
+/private/var/folders/sx/6_cj9l8n711cfj4b8jcw2tnm0000gn/T/AppTranslocation/F7CD3CEE-9D87-4ED1-8C2C-EAC0B37933DB/d/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/private/var/folders/sx/6_cj9l8n711cfj4b8jcw2tnm0000gn/T/AppTranslocation/F7CD3CEE-9D87-4ED1-8C2C-EAC0B37933DB/d/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet -B /Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet/cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet/cmake-build-debug
