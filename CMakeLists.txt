@@ -3,10 +3,10 @@ project(class1hands_onWorksheet C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(class1hands_onWorksheet main.c
-        lab115.cpp
-        lab116.cpp
-        lab117.cpp
-        lab118.cpp
-        lab119.cpp
-        lab120.cpp)
+add_executable(class1hands_onWorksheet WS1/main.c
+        WS1/lab115.cpp
+        WS1/lab116.cpp
+        WS1/lab117.cpp
+        WS1/lab118.cpp
+        WS1/lab119.cpp
+        WS1/lab120.cpp)
