@@ -49,11 +49,11 @@ cmake_ninja_workdir = /Users/sanjananagwekar/CLionProjects/class1hands-onWorkshe
 
 build cmake_object_order_depends_target_class1hands_onWorksheet: phony || CMakeFiles/class1hands_onWorksheet.dir
 
-build CMakeFiles/class1hands_onWorksheet.dir/main.c.o: C_COMPILER__class1hands_onWorksheet_unscanned_Debug /Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet/main.c || cmake_object_order_depends_target_class1hands_onWorksheet
-  DEP_FILE = CMakeFiles/class1hands_onWorksheet.dir/main.c.o.d
+build CMakeFiles/class1hands_onWorksheet.dir/WS1/main.c.o: C_COMPILER__class1hands_onWorksheet_unscanned_Debug /Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet/WS1/main.c || cmake_object_order_depends_target_class1hands_onWorksheet
+  DEP_FILE = CMakeFiles/class1hands_onWorksheet.dir/WS1/main.c.o.d
   FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/class1hands_onWorksheet.dir
-  OBJECT_FILE_DIR = CMakeFiles/class1hands_onWorksheet.dir
+  OBJECT_FILE_DIR = CMakeFiles/class1hands_onWorksheet.dir/WS1
 
 
 # =============================================================================
@@ -63,7 +63,7 @@ build CMakeFiles/class1hands_onWorksheet.dir/main.c.o: C_COMPILER__class1hands_o
 #############################################
 # Link the executable class1hands_onWorksheet
 
-build class1hands_onWorksheet: C_EXECUTABLE_LINKER__class1hands_onWorksheet_Debug CMakeFiles/class1hands_onWorksheet.dir/main.c.o
+build class1hands_onWorksheet: C_EXECUTABLE_LINKER__class1hands_onWorksheet_Debug CMakeFiles/class1hands_onWorksheet.dir/WS1/main.c.o
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2
   OBJECT_DIR = CMakeFiles/class1hands_onWorksheet.dir
   POST_BUILD = :
