@@ -61,6 +61,48 @@ build CMakeFiles/class1hands_onWorksheet.dir/Assignment1/matrixmult.c.o: C_COMPI
   OBJECT_DIR = CMakeFiles/class1hands_onWorksheet.dir
   OBJECT_FILE_DIR = CMakeFiles/class1hands_onWorksheet.dir/Assignment1
 
+build CMakeFiles/class1hands_onWorksheet.dir/WS3/4_14.c.o: C_COMPILER__class1hands_onWorksheet_unscanned_Debug /Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet/WS3/4_14.c || cmake_object_order_depends_target_class1hands_onWorksheet
+  DEP_FILE = CMakeFiles/class1hands_onWorksheet.dir/WS3/4_14.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/class1hands_onWorksheet.dir
+  OBJECT_FILE_DIR = CMakeFiles/class1hands_onWorksheet.dir/WS3
+
+build CMakeFiles/class1hands_onWorksheet.dir/WS3/4_16.c.o: C_COMPILER__class1hands_onWorksheet_unscanned_Debug /Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet/WS3/4_16.c || cmake_object_order_depends_target_class1hands_onWorksheet
+  DEP_FILE = CMakeFiles/class1hands_onWorksheet.dir/WS3/4_16.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/class1hands_onWorksheet.dir
+  OBJECT_FILE_DIR = CMakeFiles/class1hands_onWorksheet.dir/WS3
+
+build CMakeFiles/class1hands_onWorksheet.dir/WS3/5_16.c.o: C_COMPILER__class1hands_onWorksheet_unscanned_Debug /Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet/WS3/5_16.c || cmake_object_order_depends_target_class1hands_onWorksheet
+  DEP_FILE = CMakeFiles/class1hands_onWorksheet.dir/WS3/5_16.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/class1hands_onWorksheet.dir
+  OBJECT_FILE_DIR = CMakeFiles/class1hands_onWorksheet.dir/WS3
+
+build CMakeFiles/class1hands_onWorksheet.dir/WS3/5_18.c.o: C_COMPILER__class1hands_onWorksheet_unscanned_Debug /Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet/WS3/5_18.c || cmake_object_order_depends_target_class1hands_onWorksheet
+  DEP_FILE = CMakeFiles/class1hands_onWorksheet.dir/WS3/5_18.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/class1hands_onWorksheet.dir
+  OBJECT_FILE_DIR = CMakeFiles/class1hands_onWorksheet.dir/WS3
+
+build CMakeFiles/class1hands_onWorksheet.dir/WS3/5_19.c.o: C_COMPILER__class1hands_onWorksheet_unscanned_Debug /Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet/WS3/5_19.c || cmake_object_order_depends_target_class1hands_onWorksheet
+  DEP_FILE = CMakeFiles/class1hands_onWorksheet.dir/WS3/5_19.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/class1hands_onWorksheet.dir
+  OBJECT_FILE_DIR = CMakeFiles/class1hands_onWorksheet.dir/WS3
+
+build CMakeFiles/class1hands_onWorksheet.dir/WS3/5_23.c.o: C_COMPILER__class1hands_onWorksheet_unscanned_Debug /Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet/WS3/5_23.c || cmake_object_order_depends_target_class1hands_onWorksheet
+  DEP_FILE = CMakeFiles/class1hands_onWorksheet.dir/WS3/5_23.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/class1hands_onWorksheet.dir
+  OBJECT_FILE_DIR = CMakeFiles/class1hands_onWorksheet.dir/WS3
+
+build CMakeFiles/class1hands_onWorksheet.dir/WS3/5_24.c.o: C_COMPILER__class1hands_onWorksheet_unscanned_Debug /Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet/WS3/5_24.c || cmake_object_order_depends_target_class1hands_onWorksheet
+  DEP_FILE = CMakeFiles/class1hands_onWorksheet.dir/WS3/5_24.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/class1hands_onWorksheet.dir
+  OBJECT_FILE_DIR = CMakeFiles/class1hands_onWorksheet.dir/WS3
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target class1hands_onWorksheet
@@ -69,7 +111,7 @@ build CMakeFiles/class1hands_onWorksheet.dir/Assignment1/matrixmult.c.o: C_COMPI
 #############################################
 # Link the executable class1hands_onWorksheet
 
-build class1hands_onWorksheet: C_EXECUTABLE_LINKER__class1hands_onWorksheet_Debug CMakeFiles/class1hands_onWorksheet.dir/WS1/main.c.o CMakeFiles/class1hands_onWorksheet.dir/Assignment1/matrixmult.c.o
+build class1hands_onWorksheet: C_EXECUTABLE_LINKER__class1hands_onWorksheet_Debug CMakeFiles/class1hands_onWorksheet.dir/WS1/main.c.o CMakeFiles/class1hands_onWorksheet.dir/Assignment1/matrixmult.c.o CMakeFiles/class1hands_onWorksheet.dir/WS3/4_14.c.o CMakeFiles/class1hands_onWorksheet.dir/WS3/4_16.c.o CMakeFiles/class1hands_onWorksheet.dir/WS3/5_16.c.o CMakeFiles/class1hands_onWorksheet.dir/WS3/5_18.c.o CMakeFiles/class1hands_onWorksheet.dir/WS3/5_19.c.o CMakeFiles/class1hands_onWorksheet.dir/WS3/5_23.c.o CMakeFiles/class1hands_onWorksheet.dir/WS3/5_24.c.o
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2
   OBJECT_DIR = CMakeFiles/class1hands_onWorksheet.dir
   POST_BUILD = :

@@ -16,4 +16,11 @@ add_executable(class1hands_onWorksheet WS1/main.c
         WS2/lab234.cpp
         WS2/lab322.cpp
         Assignment1/matrixmult.c
+        WS3/4_14.c
+        WS3/4_16.c
+        WS3/5_16.c
+        WS3/5_18.c
+        WS3/5_19.c
+        WS3/5_23.c
+        WS3/5_24.c
 )
