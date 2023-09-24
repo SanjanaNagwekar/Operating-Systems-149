@@ -1,4 +1,5 @@
     1  sudo killall VDCAssistant
+
     2  sudo killall VDCAssisstant
     3  sudo killall VDCAssistant
     4  sudo killall VDCAssisstant
