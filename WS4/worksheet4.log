@@ -5,7 +5,6 @@
     5  sudo killall VDCAssisstant
     6  sudo killall VDCAssisstant
     7  sudokillall VDCAssisstant
-
     8  /Applications/Python\ 3.8/Install\ Certificates.command ; exit;
     9  python3
    10  python
