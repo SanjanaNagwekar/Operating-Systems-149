@@ -1,6 +1,7 @@
 //
 // Created by Sanjana Nagwekar on 9/23/23.
 //
+
 #include <stdio.h>
 
 /* Define your function here */
