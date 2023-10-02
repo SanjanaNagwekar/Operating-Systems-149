@@ -23,7 +23,6 @@ void readMatrixFromFile(const char *filename, int rows, int cols, int matrix[row
     }
 
     int value;
-    int row, col;
     int check = 0;
 
     for (int row = 0; row < rows; row++) {
