@@ -277,3 +277,17 @@
   277  ls
   278  cd WS7
   279  history > worksheet7.log
+  280  head worksheet7.log
+  281  gcc -o lseek_example lseek_example.c
+  282  ls | wc
+  283  ls | sort
+  284  ls | sort | wc
+  285  ls -latr /bin/
+  286  ls -latr/bin/ > a.out
+  287  ls -latr /bin/ > a.out
+  288  cat a.out | more
+  289  strace ls
+  290  du -sh .
+  291  df -e
+  292  df -i
+  293  history > worksheet7.log
