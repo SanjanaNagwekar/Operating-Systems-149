@@ -33,11 +33,8 @@ void executeMatrixMultParallel(const char *matrixAFile, const char *matrixWFile,
         dup2(out, 1);
         dup2(err, 2);
 
-        // Write starting information to the output file
         printf("Starting command %d: child %d pid of parent %d\n", index + 1, getpid(), getppid());
         fflush(stdout);
-
-        // You can add more information here if needed, such as matrix contents
 
         // Execute matrixmult_parallel with matrixAFile and matrixWFile
         execlp("./matrixmult_parallel", "matrixmult_parallel", matrixAFile, matrixWFile, (char *) NULL);
