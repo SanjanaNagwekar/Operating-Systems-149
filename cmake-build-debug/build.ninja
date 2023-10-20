@@ -103,6 +103,72 @@ build CMakeFiles/class1hands_onWorksheet.dir/WS3/5_24.c.o: C_COMPILER__class1han
   OBJECT_DIR = CMakeFiles/class1hands_onWorksheet.dir
   OBJECT_FILE_DIR = CMakeFiles/class1hands_onWorksheet.dir/WS3
 
+build CMakeFiles/class1hands_onWorksheet.dir/WS4/5_22.c.o: C_COMPILER__class1hands_onWorksheet_unscanned_Debug /Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet/WS4/5_22.c || cmake_object_order_depends_target_class1hands_onWorksheet
+  DEP_FILE = CMakeFiles/class1hands_onWorksheet.dir/WS4/5_22.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/class1hands_onWorksheet.dir
+  OBJECT_FILE_DIR = CMakeFiles/class1hands_onWorksheet.dir/WS4
+
+build CMakeFiles/class1hands_onWorksheet.dir/WS4/6_20.c.o: C_COMPILER__class1hands_onWorksheet_unscanned_Debug /Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet/WS4/6_20.c || cmake_object_order_depends_target_class1hands_onWorksheet
+  DEP_FILE = CMakeFiles/class1hands_onWorksheet.dir/WS4/6_20.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/class1hands_onWorksheet.dir
+  OBJECT_FILE_DIR = CMakeFiles/class1hands_onWorksheet.dir/WS4
+
+build CMakeFiles/class1hands_onWorksheet.dir/WS4/6_30.c.o: C_COMPILER__class1hands_onWorksheet_unscanned_Debug /Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet/WS4/6_30.c || cmake_object_order_depends_target_class1hands_onWorksheet
+  DEP_FILE = CMakeFiles/class1hands_onWorksheet.dir/WS4/6_30.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/class1hands_onWorksheet.dir
+  OBJECT_FILE_DIR = CMakeFiles/class1hands_onWorksheet.dir/WS4
+
+build CMakeFiles/class1hands_onWorksheet.dir/Assignment2/matrixmult_parallel.c.o: C_COMPILER__class1hands_onWorksheet_unscanned_Debug /Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet/Assignment2/matrixmult_parallel.c || cmake_object_order_depends_target_class1hands_onWorksheet
+  DEP_FILE = CMakeFiles/class1hands_onWorksheet.dir/Assignment2/matrixmult_parallel.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/class1hands_onWorksheet.dir
+  OBJECT_FILE_DIR = CMakeFiles/class1hands_onWorksheet.dir/Assignment2
+
+build CMakeFiles/class1hands_onWorksheet.dir/WS5/5_26.c.o: C_COMPILER__class1hands_onWorksheet_unscanned_Debug /Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet/WS5/5_26.c || cmake_object_order_depends_target_class1hands_onWorksheet
+  DEP_FILE = CMakeFiles/class1hands_onWorksheet.dir/WS5/5_26.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/class1hands_onWorksheet.dir
+  OBJECT_FILE_DIR = CMakeFiles/class1hands_onWorksheet.dir/WS5
+
+build CMakeFiles/class1hands_onWorksheet.dir/WS5/6_28.c.o: C_COMPILER__class1hands_onWorksheet_unscanned_Debug /Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet/WS5/6_28.c || cmake_object_order_depends_target_class1hands_onWorksheet
+  DEP_FILE = CMakeFiles/class1hands_onWorksheet.dir/WS5/6_28.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/class1hands_onWorksheet.dir
+  OBJECT_FILE_DIR = CMakeFiles/class1hands_onWorksheet.dir/WS5
+
+build CMakeFiles/class1hands_onWorksheet.dir/WS6/5_28.c.o: C_COMPILER__class1hands_onWorksheet_unscanned_Debug /Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet/WS6/5_28.c || cmake_object_order_depends_target_class1hands_onWorksheet
+  DEP_FILE = CMakeFiles/class1hands_onWorksheet.dir/WS6/5_28.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/class1hands_onWorksheet.dir
+  OBJECT_FILE_DIR = CMakeFiles/class1hands_onWorksheet.dir/WS6
+
+build CMakeFiles/class1hands_onWorksheet.dir/WS6/6.34.c.o: C_COMPILER__class1hands_onWorksheet_unscanned_Debug /Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet/WS6/6.34.c || cmake_object_order_depends_target_class1hands_onWorksheet
+  DEP_FILE = CMakeFiles/class1hands_onWorksheet.dir/WS6/6.34.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/class1hands_onWorksheet.dir
+  OBJECT_FILE_DIR = CMakeFiles/class1hands_onWorksheet.dir/WS6
+
+build CMakeFiles/class1hands_onWorksheet.dir/Assignment3/matrixmult_multiw.c.o: C_COMPILER__class1hands_onWorksheet_unscanned_Debug /Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet/Assignment3/matrixmult_multiw.c || cmake_object_order_depends_target_class1hands_onWorksheet
+  DEP_FILE = CMakeFiles/class1hands_onWorksheet.dir/Assignment3/matrixmult_multiw.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/class1hands_onWorksheet.dir
+  OBJECT_FILE_DIR = CMakeFiles/class1hands_onWorksheet.dir/Assignment3
+
+build CMakeFiles/class1hands_onWorksheet.dir/Assignment3/matrixmult_parallel.c.o: C_COMPILER__class1hands_onWorksheet_unscanned_Debug /Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet/Assignment3/matrixmult_parallel.c || cmake_object_order_depends_target_class1hands_onWorksheet
+  DEP_FILE = CMakeFiles/class1hands_onWorksheet.dir/Assignment3/matrixmult_parallel.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/class1hands_onWorksheet.dir
+  OBJECT_FILE_DIR = CMakeFiles/class1hands_onWorksheet.dir/Assignment3
+
+build CMakeFiles/class1hands_onWorksheet.dir/WS7/6_24.c.o: C_COMPILER__class1hands_onWorksheet_unscanned_Debug /Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet/WS7/6_24.c || cmake_object_order_depends_target_class1hands_onWorksheet
+  DEP_FILE = CMakeFiles/class1hands_onWorksheet.dir/WS7/6_24.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/class1hands_onWorksheet.dir
+  OBJECT_FILE_DIR = CMakeFiles/class1hands_onWorksheet.dir/WS7
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target class1hands_onWorksheet
@@ -111,7 +177,7 @@ build CMakeFiles/class1hands_onWorksheet.dir/WS3/5_24.c.o: C_COMPILER__class1han
 #############################################
 # Link the executable class1hands_onWorksheet
 
-build class1hands_onWorksheet: C_EXECUTABLE_LINKER__class1hands_onWorksheet_Debug CMakeFiles/class1hands_onWorksheet.dir/WS1/main.c.o CMakeFiles/class1hands_onWorksheet.dir/Assignment1/matrixmult.c.o CMakeFiles/class1hands_onWorksheet.dir/WS3/4_14.c.o CMakeFiles/class1hands_onWorksheet.dir/WS3/4_16.c.o CMakeFiles/class1hands_onWorksheet.dir/WS3/5_16.c.o CMakeFiles/class1hands_onWorksheet.dir/WS3/5_18.c.o CMakeFiles/class1hands_onWorksheet.dir/WS3/5_19.c.o CMakeFiles/class1hands_onWorksheet.dir/WS3/5_23.c.o CMakeFiles/class1hands_onWorksheet.dir/WS3/5_24.c.o
+build class1hands_onWorksheet: C_EXECUTABLE_LINKER__class1hands_onWorksheet_Debug CMakeFiles/class1hands_onWorksheet.dir/WS1/main.c.o CMakeFiles/class1hands_onWorksheet.dir/Assignment1/matrixmult.c.o CMakeFiles/class1hands_onWorksheet.dir/WS3/4_14.c.o CMakeFiles/class1hands_onWorksheet.dir/WS3/4_16.c.o CMakeFiles/class1hands_onWorksheet.dir/WS3/5_16.c.o CMakeFiles/class1hands_onWorksheet.dir/WS3/5_18.c.o CMakeFiles/class1hands_onWorksheet.dir/WS3/5_19.c.o CMakeFiles/class1hands_onWorksheet.dir/WS3/5_23.c.o CMakeFiles/class1hands_onWorksheet.dir/WS3/5_24.c.o CMakeFiles/class1hands_onWorksheet.dir/WS4/5_22.c.o CMakeFiles/class1hands_onWorksheet.dir/WS4/6_20.c.o CMakeFiles/class1hands_onWorksheet.dir/WS4/6_30.c.o CMakeFiles/class1hands_onWorksheet.dir/Assignment2/matrixmult_parallel.c.o CMakeFiles/class1hands_onWorksheet.dir/WS5/5_26.c.o CMakeFiles/class1hands_onWorksheet.dir/WS5/6_28.c.o CMakeFiles/class1hands_onWorksheet.dir/WS6/5_28.c.o CMakeFiles/class1hands_onWorksheet.dir/WS6/6.34.c.o CMakeFiles/class1hands_onWorksheet.dir/Assignment3/matrixmult_multiw.c.o CMakeFiles/class1hands_onWorksheet.dir/Assignment3/matrixmult_parallel.c.o CMakeFiles/class1hands_onWorksheet.dir/WS7/6_24.c.o
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2
   OBJECT_DIR = CMakeFiles/class1hands_onWorksheet.dir
   POST_BUILD = :
@@ -124,7 +190,7 @@ build class1hands_onWorksheet: C_EXECUTABLE_LINKER__class1hands_onWorksheet_Debu
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet/cmake-build-debug && /private/var/folders/sx/6_cj9l8n711cfj4b8jcw2tnm0000gn/T/AppTranslocation/F7CD3CEE-9D87-4ED1-8C2C-EAC0B37933DB/d/CLion.app/Contents/bin/cmake/mac/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+  COMMAND = cd /Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -135,7 +201,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet/cmake-build-debug && /private/var/folders/sx/6_cj9l8n711cfj4b8jcw2tnm0000gn/T/AppTranslocation/F7CD3CEE-9D87-4ED1-8C2C-EAC0B37933DB/d/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S/Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet -B/Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet/cmake-build-debug
+  COMMAND = cd /Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S/Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet -B/Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet/cmake-build-debug
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -162,14 +228,14 @@ build all: phony class1hands_onWorksheet
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | /Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet/CMakeLists.txt /private/var/folders/sx/6_cj9l8n711cfj4b8jcw2tnm0000gn/T/AppTranslocation/F7CD3CEE-9D87-4ED1-8C2C-EAC0B37933DB/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeCInformation.cmake /private/var/folders/sx/6_cj9l8n711cfj4b8jcw2tnm0000gn/T/AppTranslocation/F7CD3CEE-9D87-4ED1-8C2C-EAC0B37933DB/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake /private/var/folders/sx/6_cj9l8n711cfj4b8jcw2tnm0000gn/T/AppTranslocation/F7CD3CEE-9D87-4ED1-8C2C-EAC0B37933DB/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeGenericSystem.cmake /private/var/folders/sx/6_cj9l8n711cfj4b8jcw2tnm0000gn/T/AppTranslocation/F7CD3CEE-9D87-4ED1-8C2C-EAC0B37933DB/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake /private/var/folders/sx/6_cj9l8n711cfj4b8jcw2tnm0000gn/T/AppTranslocation/F7CD3CEE-9D87-4ED1-8C2C-EAC0B37933DB/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake /private/var/folders/sx/6_cj9l8n711cfj4b8jcw2tnm0000gn/T/AppTranslocation/F7CD3CEE-9D87-4ED1-8C2C-EAC0B37933DB/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake /private/var/folders/sx/6_cj9l8n711cfj4b8jcw2tnm0000gn/T/AppTranslocation/F7CD3CEE-9D87-4ED1-8C2C-EAC0B37933DB/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake /private/var/folders/sx/6_cj9l8n711cfj4b8jcw2tnm0000gn/T/AppTranslocation/F7CD3CEE-9D87-4ED1-8C2C-EAC0B37933DB/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/AppleClang-C.cmake /private/var/folders/sx/6_cj9l8n711cfj4b8jcw2tnm0000gn/T/AppTranslocation/F7CD3CEE-9D87-4ED1-8C2C-EAC0B37933DB/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake /private/var/folders/sx/6_cj9l8n711cfj4b8jcw2tnm0000gn/T/AppTranslocation/F7CD3CEE-9D87-4ED1-8C2C-EAC0B37933DB/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/Clang.cmake /private/var/folders/sx/6_cj9l8n711cfj4b8jcw2tnm0000gn/T/AppTranslocation/F7CD3CEE-9D87-4ED1-8C2C-EAC0B37933DB/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/GNU.cmake /private/var/folders/sx/6_cj9l8n711cfj4b8jcw2tnm0000gn/T/AppTranslocation/F7CD3CEE-9D87-4ED1-8C2C-EAC0B37933DB/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Apple-AppleClang-C.cmake /private/var/folders/sx/6_cj9l8n711cfj4b8jcw2tnm0000gn/T/AppTranslocation/F7CD3CEE-9D87-4ED1-8C2C-EAC0B37933DB/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Apple-Clang-C.cmake /private/var/folders/sx/6_cj9l8n711cfj4b8jcw2tnm0000gn/T/AppTranslocation/F7CD3CEE-9D87-4ED1-8C2C-EAC0B37933DB/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Apple-Clang.cmake /private/var/folders/sx/6_cj9l8n711cfj4b8jcw2tnm0000gn/T/AppTranslocation/F7CD3CEE-9D87-4ED1-8C2C-EAC0B37933DB/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Darwin-Initialize.cmake /private/var/folders/sx/6_cj9l8n711cfj4b8jcw2tnm0000gn/T/AppTranslocation/F7CD3CEE-9D87-4ED1-8C2C-EAC0B37933DB/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Darwin.cmake /private/var/folders/sx/6_cj9l8n711cfj4b8jcw2tnm0000gn/T/AppTranslocation/F7CD3CEE-9D87-4ED1-8C2C-EAC0B37933DB/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.26.4/CMakeCCompiler.cmake CMakeFiles/3.26.4/CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeCInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeGenericSystem.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/GNU.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Apple-AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Apple-Clang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Apple-Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Darwin-Initialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Darwin.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/UnixPaths.cmake /Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet/CMakeLists.txt CMakeCache.txt CMakeFiles/3.26.4/CMakeCCompiler.cmake CMakeFiles/3.26.4/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build /Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet/CMakeLists.txt /private/var/folders/sx/6_cj9l8n711cfj4b8jcw2tnm0000gn/T/AppTranslocation/F7CD3CEE-9D87-4ED1-8C2C-EAC0B37933DB/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeCInformation.cmake /private/var/folders/sx/6_cj9l8n711cfj4b8jcw2tnm0000gn/T/AppTranslocation/F7CD3CEE-9D87-4ED1-8C2C-EAC0B37933DB/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake /private/var/folders/sx/6_cj9l8n711cfj4b8jcw2tnm0000gn/T/AppTranslocation/F7CD3CEE-9D87-4ED1-8C2C-EAC0B37933DB/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeGenericSystem.cmake /private/var/folders/sx/6_cj9l8n711cfj4b8jcw2tnm0000gn/T/AppTranslocation/F7CD3CEE-9D87-4ED1-8C2C-EAC0B37933DB/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake /private/var/folders/sx/6_cj9l8n711cfj4b8jcw2tnm0000gn/T/AppTranslocation/F7CD3CEE-9D87-4ED1-8C2C-EAC0B37933DB/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake /private/var/folders/sx/6_cj9l8n711cfj4b8jcw2tnm0000gn/T/AppTranslocation/F7CD3CEE-9D87-4ED1-8C2C-EAC0B37933DB/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake /private/var/folders/sx/6_cj9l8n711cfj4b8jcw2tnm0000gn/T/AppTranslocation/F7CD3CEE-9D87-4ED1-8C2C-EAC0B37933DB/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake /private/var/folders/sx/6_cj9l8n711cfj4b8jcw2tnm0000gn/T/AppTranslocation/F7CD3CEE-9D87-4ED1-8C2C-EAC0B37933DB/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/AppleClang-C.cmake /private/var/folders/sx/6_cj9l8n711cfj4b8jcw2tnm0000gn/T/AppTranslocation/F7CD3CEE-9D87-4ED1-8C2C-EAC0B37933DB/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake /private/var/folders/sx/6_cj9l8n711cfj4b8jcw2tnm0000gn/T/AppTranslocation/F7CD3CEE-9D87-4ED1-8C2C-EAC0B37933DB/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/Clang.cmake /private/var/folders/sx/6_cj9l8n711cfj4b8jcw2tnm0000gn/T/AppTranslocation/F7CD3CEE-9D87-4ED1-8C2C-EAC0B37933DB/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/GNU.cmake /private/var/folders/sx/6_cj9l8n711cfj4b8jcw2tnm0000gn/T/AppTranslocation/F7CD3CEE-9D87-4ED1-8C2C-EAC0B37933DB/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Apple-AppleClang-C.cmake /private/var/folders/sx/6_cj9l8n711cfj4b8jcw2tnm0000gn/T/AppTranslocation/F7CD3CEE-9D87-4ED1-8C2C-EAC0B37933DB/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Apple-Clang-C.cmake /private/var/folders/sx/6_cj9l8n711cfj4b8jcw2tnm0000gn/T/AppTranslocation/F7CD3CEE-9D87-4ED1-8C2C-EAC0B37933DB/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Apple-Clang.cmake /private/var/folders/sx/6_cj9l8n711cfj4b8jcw2tnm0000gn/T/AppTranslocation/F7CD3CEE-9D87-4ED1-8C2C-EAC0B37933DB/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Darwin-Initialize.cmake /private/var/folders/sx/6_cj9l8n711cfj4b8jcw2tnm0000gn/T/AppTranslocation/F7CD3CEE-9D87-4ED1-8C2C-EAC0B37933DB/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Darwin.cmake /private/var/folders/sx/6_cj9l8n711cfj4b8jcw2tnm0000gn/T/AppTranslocation/F7CD3CEE-9D87-4ED1-8C2C-EAC0B37933DB/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.26.4/CMakeCCompiler.cmake CMakeFiles/3.26.4/CMakeSystem.cmake: phony
+build /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeCInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeGenericSystem.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/GNU.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Apple-AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Apple-Clang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Apple-Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Darwin-Initialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Darwin.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/UnixPaths.cmake /Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet/CMakeLists.txt CMakeCache.txt CMakeFiles/3.26.4/CMakeCCompiler.cmake CMakeFiles/3.26.4/CMakeSystem.cmake: phony
 
 
 #############################################
