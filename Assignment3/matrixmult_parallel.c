@@ -1,5 +1,10 @@
 //
 // Created by Sanjana Nagwekar on 10/11/23.
+/*
+ * File:   matrixmult_parallel.c
+ * Date:   October 19, 2023
+ */
+
 //
 #include <stdio.h>
 #include <stdlib.h>
