@@ -1,0 +1,355 @@
+    1  sudo killall VDCAssistant
+    2  sudo killall VDCAssisstant
+    3  sudo killall VDCAssistant
+    4  sudo killall VDCAssisstant
+    5  sudo killall VDCAssisstant
+    6  sudo killall VDCAssisstant
+    7  sudokillall VDCAssisstant
+    8  /Applications/Python\ 3.8/Install\ Certificates.command ; exit;
+    9  python3
+   10  python
+   11  python3
+   12  python3
+   13  python3
+   14  python3
+   15  cd Downloads/
+   16  ls
+   17  python3 -m doctest ps01.py
+   18  python3
+   19  python3
+   20  python3
+   21  cdDownloads
+   22  cd Downloads
+   23  python3 -m Doctest ps04.py
+   24  python3 -m doctest ps04.py
+   25  python3 -m doctest ps04.py
+   26  cd Downloads
+   27  python3 -m doctest Sanjana_ps04.py
+   28  sudo killall VDCAssistant
+   29  sudo killall VDCAssistant
+   30  sudo killall VDCAssistant
+   31  sudo killall VDCAssistant
+   32  sudo killall VDCAssisstant
+   33  sudo killall VDCAssistant
+   34  sudo killall VDCAssistant
+   35  sudo killall VDCAssistant
+   36  sudo killall VDCAssistant
+   37  sudo killall VDCAssistant
+   38  sudo killall VDCAssistant
+   39  killall Dock
+   40  /Applications/AppInventor/commands-for-Appinventor/aiStarter ; exit;
+   41  sudo killall VDCAssistant
+   42  /Users/sanjananagwekar/opt/anaconda3/pkgs/mkl-2021.2.0-hecd8cb5_269/lib/libmkl_intel_thread.dylib ; exit;
+   43  sudo killall VDCAssistant
+   44  killall Dock
+   45  sudo killall VDCAssistant
+   46  sudo killall VDCAssistant
+   47  sudo killall VDCAssisstant
+   48  sudo killall VDCAssistant
+   49  sudo killall VDCAssistant
+   50  sudo kill -9 ps ax|grep &#39;coreaudio[a-z]&#39; | awk &#39;{print $1}&#39;
+   51  sudo kill -9 ps ax
+   52  grep &#39;coreaudio[a-z]&#39;
+   53  awk &#39;{print $1}&#39;
+   54  sudo kill -9 ps ax|grep &#39;coreaudio[a-z]&#39; | awk &#39;{print $1}&#39;
+   55  sudo kill -9 ps ax|grep &#39;coreaudio[a-z]&#39; | awk &#39;{print $1}&#39;
+   56  sudo kill -9 ps ax|grep &#39;coreaudio[a-z]&#39; | awk &#39;{print $1}&#39;
+   57  sudo kill -9 ps ax|grep &#39;coreaudio[a-z]&#39; | awk &#39;{print $1}&#39;
+   58  sudo killall coreaudiod
+   59  sudo killall coreaudiod
+   60  java-version
+   61  java -version
+   62  ls
+   63  pwd
+   64  ls/
+   65  ls
+   66  downloads
+   67  ls/Downloads
+   68  ls/Users/username/Downloads.
+   69  ls
+   70  ls Downloads
+   71  ls /downloads/d
+   72  ls downloads/d
+   73  ls /Users/sanjananagwekar/
+   74  ls /Users/sanjananagwekar/Downloads/
+   75  ls /Users/sanjananagwekar/Downloads/eclipse-workspace
+   76  ls /Users/sanjananagwekar/Downloads
+   77  ls /Users/sanjananagwekar/Downloads/
+   78  ls User/sanjananagwekar/eclipse-workspace
+   79  ls eclipse-workspace
+   80  cd /Users/sanjananagwekar/eclipse-workspace/lab4proj
+   81  cd bin
+   82  cd transport
+   83  ls
+   84  cd ..
+   85  cd ..
+   86  pwd
+   87  cd src
+   88  ls
+   89  cd transport
+   90  cp DamagedRover.java
+   91  ls
+   92  cp -v pathToDamagedRover/DamagedRover.java
+   93  /Users/sanjananagwekar/Downloads/eclipse-workspace/lab4proj/DamagedRover.java
+   94  ls
+   95  cp -v Users/sanjananagwekar/Downloads/DamagedRover.java
+   96  ls
+   97  cd ..
+   98  cd ..
+   99  pwd
+  100  javac -d bin src/transport/*.java
+  101  javac -version
+  102  java -classpath /Users/sanjananagwekar/Downloads/eclipse-workspace/lab4proj/bin transport.MarsRover
+  103  pwd
+  104  java -classpath /Users/sanjananagwekar/eclipse-workspace/lab4proj/bin transport.MarsRover
+  105  git --version
+  106  git config --global user.name SanjanaNagwekar
+  107  git config --global user.email sanjana.nagwekar@sjsu.edu
+  108  ls ~/.ssh
+  109  ssh-keygen -t rsa -C Sanjana <SanjanaNagwekar@mailserver.com
+  110  git --version
+  111  cat ~/.ssh/id_rsa.pub
+  112  ls ~/.ssh
+  113  ssh-keygen -t rsa -C "Sanjana <SanjanaNagwekar@mailserver.com>"
+  114  cat ~/.ssh/id_rsa.pub
+  115  cd
+  116  cd lab12
+  117  ls
+  118  cd lab12
+  119  ls
+  120  ls
+  121  git init
+  122  git status
+  123  git add .gitignore src
+  124  git status
+  125  git add .gitignore src
+  126  git status
+  127  git add .gitignore src
+  128  git status
+  129  git add src
+  130  git status
+  131  git add .gitignore
+  132  git status
+  133  git commit -a -m "initial checkin"
+  134  git status
+  135  git status
+  136  git commit
+  137  git commit -a -m "..."
+  138  git commit -a -m "..."
+  139  git push
+  140  git remote add origin git@github.com:SanjanaNagwekar/lab12.git
+  141  git push -u origin main
+  142  git branch -M main
+  143  git remote add origin 
+  144  git remote add origin 
+  145  git@github.com/SanjanaNagwekar/lab12.git
+  146  git@github.com:SanjanaNagwekar/lab12.git
+  147  git branch -M main
+  148  git remote add origin https://github.com/SanjanaNagwekar/lab12.git
+  149  git push -u origin main
+  150  git remote add origin https://github.com/SanjanaNagwekar/lab12.git
+  151  git branch -M main
+  152  git push -u origin main
+  153  git pull
+  154  git commit -a -m “updated TreeNode class”
+  155  git push
+  156  git pull
+  157  git commit -a -m “updated TreeNode class”
+  158  git push
+  159  git pull
+  160  git commit -a -m “updated TreeNode class”
+  161  git remote add origin git@github.com:SanjanaNagwekar/lab12.git
+  162  git push -u origin main
+  163  ls
+  164  git commit -a -m "update"
+  165  git push
+  166  git pull
+  167  it commit -a -m “updated TreeNode class”
+  168  git push
+  169  ls
+  170  git commit -a -m "update"
+  171  git push
+  172  java -version
+  173  java -jar bonuslab1.jar
+  174  java -jar bonuslab1.jar
+  175  git clone git@github.com:SanjanaNagwekar/lab13-transversals.git
+  176  git clone git@github.com:SanjanaNagwekar/lab13-traversals.git
+  177  ls
+  178  cd lab13-traversals
+  179  git pull
+  180  git add src
+  181  git commit -a -m "updated traversal code"
+  182  git push
+  183  git push -u origin main
+  184  ls
+  185  git push
+  186  git status
+  187  git pull
+  188  git push -u origin main
+  189  git commit -a -m "updated traversal"
+  190  git push
+  191  git add
+  192  git add .
+  193  git commit -m "updates done by .."
+  194  git push origin main
+  195  git push origin lab13-traversals
+  196  git add src
+  197  git commit -m "updates"
+  198  git push
+  199  git init
+  200  git add src
+  201  git status
+  202  git commit -m "updated traverse"
+  203   git push origin main
+  204  git pull
+  205  git add src
+  206  git commit -a -m "updated traversal code"
+  207  git push
+  208  git pull
+  209  ls
+  210  cd bonus3
+  211  ls
+  212  ls
+  213  cd lab13-traversals
+  214  git pull
+  215  git pull
+  216  git add src
+  217  git commit -a -m "updated traversal code"
+  218  git push
+  219  git pull
+  220  git pull
+  221  git add src
+  222  git commit -a -m "updated trav code"
+  223  git push
+  224  git pull
+  225  git add src
+  226  git commit -a -m "updates"
+  227  git push
+  228  xcode-select --install
+  229  sudo port install mars 
+  230  sudo port install mars
+  231  sudo port install mars
+  232  git init
+  233  git clone <https://bitbucket.org/cs149-sanjananagwekar/cs149/src/master/>
+  234  git clone<https://bitbucket.org/cs149-sanjananagwekar/cs149/src/master>
+  235  git push
+  236  git remote add origin https://SanjanaNagwekar04@bitbucket.org/cs149-sanjanan/cs149.git
+  237  git config --global user.email "sanjana.n438@gmail.com"
+  238  git config --global user.name "SanjanaN"
+  239  mkdir WS1
+  240  cd WS1
+  241  git add .
+  242  history > cmds.log
+  243  git add cmds.log *.c
+  244  git commit -m "First commit" -a
+  245  git branch
+  246  git push -u origin master
+  247  git push -u origin master
+  248  git clone https://SanjanaNagwekar04@bitbucket.org/cs149-sanjanan/cs149.git
+  249  /Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet/cmake-build-debug/CMakeFiles/class1hands_onWorksheet.dir/Assignment1/matrixmult ; exit;
+  250  ./matrixmult A1.txt W1.txt B1.txt
+  251  cd Assignment1
+  252  ./matrixmult A1.txt W1.txt B1.txt
+  253  ./matrixmult.c A1.txt W1.txt B1.txt
+  254  ls 
+  255  ls
+  256  cd ..
+  257  cd ~
+  258  ls
+  259  cd CLionProjects
+  260  ls
+  261  cd class1hands-onWorksheet/
+  262  ls
+  263  cd Assignment1/
+  264  ls
+  265  ./matrixmult A1.txt W1.txt B1.txt
+  266  ./matrixmult A1.txt W1.txt B1.txt
+  267  ls
+  268  cd WS5
+  269  history > worksheet5.log
+  270  tail worksheet5.log
+  271  ls
+  272  cd WS6
+  273  history > worksheet6.log
+  274  head worksheet6.log
+  275  tail worksheet6.log
+  276  cat worksheet6.log
+  277  ls
+  278  cd WS7
+  279  history > worksheet7.log
+  280  head worksheet7.log
+  281  gcc -o lseek_example lseek_example.c
+  282  ls | wc
+  283  ls | sort
+  284  ls | sort | wc
+  285  ls -latr /bin/
+  286  ls -latr/bin/ > a.out
+  287  ls -latr /bin/ > a.out
+  288  cat a.out | more
+  289  strace ls
+  290  du -sh .
+  291  df -e
+  292  df -i
+  293  history > worksheet7.log
+  294  cd WS8
+  295  wget http://www.apuebook.com/src.3e.tar.gz
+  296  wget http://www.apuebook.com/src.3e.tar.gz
+  297  wget http://www.apuebook.com/src.3e.tar.gz
+  298  wget http://www.apuebook.com/src.3e.tar.gz
+  299  wget -V
+  300  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  301  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  302  brew install wget
+  303  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  304  brew install wget
+  305  brew install wget
+  306   (echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/sanjananagwekar/.bash_profile
+  307  eval "$(/opt/homebrew/bin/brew shellenv)"
+  308  $ brew install wget
+  309  echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/sanjananagwekar/.bash_profile
+  310  (echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/sanjananagwekar/.bash_profile
+  311  eval "$(/opt/homebrew/bin/brew shellenv)"
+  312  brew install wget
+  313  wget http://www.apuebook.com/src.3e.tar.gz
+  314  gunzip src.3e.tar.gz
+  315  tar xvf src.3e.tar
+  316  cd apue.3e
+  317  cd proc
+  318  make all
+  319  ./fork1
+  320  ./fork2
+  321  cd CLionProjects
+  322  ls
+  323  cd class1hands-onWorksheet
+  324  cd WS8/mycat.c
+  325  cd WS8
+  326  ls
+  327  cd mycat.c
+  328  cc /Users/sanjananagwekar/CLionProjects/class1hands-onWorksheet/WS8/mycat.c -o mycat -lapue
+  329  gcc  -ansi  -I../include   -DLINUX  -D_GNU_SOURCE  -Wall   -o mycat mycat.c  -L../lib -lapue
+  330  cd WS8
+  331  tail worksheet8.log
+  332  cat worksheet8.log
+  333  history > worksheet8.log
+  334  head worksheet8.log
+  335  tail worksheet8.log
+  336  cat worksheet8.log
+  337  ls
+  338  cd CLionProjects
+  339  ls
+  340  cd class1hands-onWorksheet
+  341  ls
+  342  cd WS9
+  343  make all
+  344  ./sigusr &
+  345  ls
+  346  ./sigurs.c &
+  347  sigusr.c &
+  348  ./sigusr.c &
+  349  make all
+  350  ./sigusr.c &
+  351  kill -SIGUSR1 pid
+  352  kill -SIGUSR2 pid
+  353  kill -SIGCONT pid
+  354  kill -9 pid
+  355  history > worksheet9.log
