@@ -1,6 +1,6 @@
 # Matrix Multiplication Program
 
-This program performs matrix multiplication in parallel using child processes. It reads a matrix from a file and multiplies it with multiple matrices in parallel.
+This program performs matrix multiplication in parallel using child processes. It incorporates robust error handling, efficient memory management with malloc, and utilizes the exec family of system calls for process execution. The program begins by reading matrices from files using the readMatrixFromFile function, implementing error handling to manage file opening failures. The core parallel computation is carried out in the executeMatrixMultParallel function, where a child process is forked to execute matrix multiplication. This involves redirecting standard output and error to separate files, handling potential errors in file opening, and employing the exec system call to replace the child process with the actual matrix multiplication executable (matrixmult_parallel). The main function orchestrates the entire process, validating command-line arguments, reading the initial matrix A, and employing dynamic memory allocation (malloc) to manage the matrix file names when matrices are provided interactively. The program ensures proper resource release using free after dynamically allocating memory. Overall, this code not only efficiently performs parallel matrix multiplication but also demonstrates good practices in error handling, process execution, and memory management.
 
 ## Compilation
 
@@ -30,3 +30,6 @@ The result of matrix multiplication is printed to stdout in the format:
 Rsum = [ ... ]  # Resultant matrix
 Process finished with exit code 0
 ```
+## Runtime
+
+This program has an average runtime of ~ 0.002 seconds
