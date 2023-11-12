@@ -1,4 +1,4 @@
-#include "apue.h"
+#include "../WS9/apue.h"
 
 #define	BUFFSIZE	4096
 
