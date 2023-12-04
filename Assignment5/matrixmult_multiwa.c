@@ -1,6 +1,4 @@
-//
 // Created by Sanjana Nagwekar on 11/13/23.
-//
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -10,7 +8,7 @@
 #include <sys/types.h>
 
 #define MAX_FILENAME_LENGTH 100
-#define MAX_MATRICES 12
+#define TERMINATION_SIGNAL "END_OF_INPUT\n"  // Unique termination signal
 
 int main(int argc, char *argv[]) {
     if (argc < 3) {
@@ -48,44 +46,32 @@ int main(int argc, char *argv[]) {
             close(pipes[i][0]); // Close read-end of the pipe in parent
         }
     }
+
     // Parent process: Read A matrix filenames from stdin and send to children
     char filename[MAX_FILENAME_LENGTH];
-    while (1) {
-        printf("Waiting for A matrix filename...\n");  // Debugging statement
-
-        if (!fgets(filename, MAX_FILENAME_LENGTH, stdin)) {
-            if (feof(stdin)) {
-                printf("EOF reached. Sending termination signals to child processes.\n");
-                break; // Exit loop on EOF
-            } else {
-                perror("Error reading from stdin");
-                break; // Exit loop on error
-            }
-        }
-
+    while (fgets(filename, MAX_FILENAME_LENGTH, stdin)) {
         filename[strcspn(filename, "\n")] = 0; // Remove newline character
         printf("Read filename: '%s'\n", filename); // Debugging statement
 
         for (int i = 0; i < numWMatrices; i++) {
-            printf("Sending filename '%s' to child process %d\n", filename, i); // Debugging statement
             if (write(pipes[i][1], filename, strlen(filename) + 1) == -1) {
-                perror("write");
+                perror("write to child");
             }
         }
     }
 
-    // Send termination signal (e.g., empty string) to children
-    strcpy(filename, ""); // Set filename to empty string as termination signal
+    if (ferror(stdin)) {
+        perror("Error reading from stdin");
+        // Consider how to handle this error. Maybe send a termination signal to children or exit
+    }
+
+    // Send termination signal to children
     for (int i = 0; i < numWMatrices; i++) {
-        ssize_t bytesWritten = write(pipes[i][1], filename, strlen(filename) + 1);
-        if (bytesWritten == -1) {
-            perror("write");
-        } else {
-            printf("Sent termination signal to child process %d\n", i);
+        if (write(pipes[i][1], TERMINATION_SIGNAL, strlen(TERMINATION_SIGNAL) + 1) == -1) {
+            perror("write termination signal");
         }
         close(pipes[i][1]); // Close write-end of the pipe after sending termination signal
     }
-
 
     // Wait for all child processes to finish
     int status;
@@ -93,10 +79,13 @@ int main(int argc, char *argv[]) {
         pid_t childPid = wait(&status);
         if (childPid == -1) {
             perror("wait");
-        } else {
-            if (WIFEXITED(status)) {
-                printf("Child with PID %d exited with status %d\n", childPid, WEXITSTATUS(status));
-            }
+            continue;
+        }
+
+        if (WIFEXITED(status)) {
+            printf("Child with PID %d exited with status %d\n", childPid, WEXITSTATUS(status));
+        } else if (WIFSIGNALED(status)) {
+            printf("Child with PID %d killed by signal %d\n", childPid, WTERMSIG(status));
         }
     }
     return 0;
